@@ -8,7 +8,7 @@ Embark on a transformative journey with HealthTracker, your ultimate companion i
 HealthTracker’s architecture adheres to the Model-View-ViewModel (MVVM) pattern, enhancing the separation of concerns by dividing the user interface logic from the business logic. This architecture supports a clean and organized codebase that is simpler to understand, test, and maintain.
 
 ## More Details
-
+Please check https://noxzzzzzz.github.io/HealthTracker.github.io/
 
 ## Contributor
 Contributors to app’s development: Nox Zeng, Joseph Seon Yoo, Zohair Hussain, Benjamin Tam, Bryant Alan Morales-Chora, Hadi Abdul Syed
