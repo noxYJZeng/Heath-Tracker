@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "582924982429",
+    "firebase_url": "https://cs2340-2420d-default-rtdb.firebaseio.com",
+    "project_id": "cs2340-2420d",
+    "storage_bucket": "cs2340-2420d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582924982429:android:86a9ca9d017cbfdeda1c74",
+        "android_client_info": {
+          "package_name": "com.example.healthtrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGkHQmO5MEhTM46sA3g1aO2F-hVzuU18Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
